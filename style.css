@@ -1,0 +1,262 @@
+html{
+ 
+    background-color: rgb(1, 1, 46);
+
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    margin: 15px;
+}
+body {
+ max-height: 1300px;
+
+
+}
+
+.header map{
+position: relative;
+left: 600px;
+color: white;
+font-size: 25px;
+top: -60px;
+}
+.header h3{
+color: white;
+position: relative;
+left: 115px;
+font-size: 35px;
+
+
+}
+.header number{
+    position: relative;
+    left: 700px;
+    color: white;
+    font-size: 25px;
+    top: -60px;
+}
+
+.main{
+    position: relative;
+    margin-top: 230px;
+    left: 140px;
+    
+}
+
+.main h1{
+color:  white;
+font-size: 40px;
+}
+.main h2{
+    color: white;
+    font-size: 25px;
+}
+.main p{
+    color: white;
+    font-size: 18px;
+
+}
+.button{
+    background-color: rgb(227, 193, 0);
+    font-size: 35px;
+    padding: 25px;
+    border-radius: 20px;
+    top: -700px;
+    position: relative;
+}
+.btn{
+    font-size: 28px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.img{
+    position: relative;
+    right: 30px;
+    height: 150px;
+    top: -920px;
+    object-fit: cover
+}
+.img1{
+    position: relative;
+    right: 30px;
+    top: -1220px;
+
+}
+.content{
+    margin: 310px;
+height: 1200px;
+width: 1700px;
+position: relative;;
+top: -910px;
+right: 340px;
+background-color: rgb(255, 255, 255);
+
+}
+.content h1{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    position: relative;
+    right: 120px;
+}
+
+
+.card p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.card h3{
+    color: rgb(0, 0, 0);
+}
+
+.card1{
+    position: relative;
+left: 50px;
+
+}
+
+.card2{
+    position: relative;
+left: 500px;
+top: -445px;
+}
+
+.card3{
+    position: relative;
+left: 950px;
+top: -892px;
+
+}
+.card4{
+    position: relative;
+left: 50px;
+top: -700px;
+}
+.card5{
+    position: relative;
+left: 500px;
+top: -1145px;
+
+}
+.card6{
+    position: relative;
+left: 950px;
+top: -1590px;
+
+}
+.main img{
+    position: relative;
+    height: 800px;
+    width: 1300px;
+    top: -450px;
+    left: 220px;
+}
+
+.btn1{
+    text-decoration: none;
+    font-size: 30px;
+    border-radius:20px;
+padding: 12px;
+    position: relative;
+    background-color: rgb(227, 193, 0);
+    color: black
+}
+
+
+.btn3{
+    position: relative;
+    top: -850px;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.img2{
+    position: relative;
+    top: -90px;
+}
+
+.img3{
+    position: relative;
+    height: 150px;
+    top: -500px;
+    object-fit: cover
+}
+
+.content1{
+    position: relative;
+    left: 940px;
+    top: -960px;
+    font-size: 18px;
+}
+
+.content1 h1{
+    color: white;
+}
+.content1 h2{
+    color: white;
+}
+
+.select{
+    position: relative;
+
+    background-color: white;
+    height: 700px;
+    width: 1535px;
+    top: -515px;
+}
+.slider{
+    position: relative;
+    height: 500px;
+    width: 700px;
+    background-color: rgb(226, 225, 225);
+    border-radius: 20px;
+
+}
+
+.img4{
+    position: relative;
+    height: 150px;
+    top: -515px;
+    object-fit: cover
+}
+
+.footer{
+    background-color: white;
+    height: 250px;
+width: 750px;
+   padding: 25px;
+   border-radius: 25px;
+
+}
+.input {
+    font-size: 15px;
+    position: relative;
+    padding: 12px;
+    right: 70px;
+}
+
+.btn0{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius:15px;
+padding: 20px;
+    position: relative;
+    background-color: rgb(227, 193, 0);
+    color: black
+
+}
+
+.img0{
+    position: absolute;
+    left: 450px;
+    top: 100px;
+
+}
+
+.img01{
+    position:absolute;
+    left: 100px;
+
+}
